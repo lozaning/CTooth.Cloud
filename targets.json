@@ -1,2 +1,5 @@
-[ip:54.151.118.105]
-[payload:/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa]
+{
+  "ip": "54.151.118.105",
+  "payload": "/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
+}
+
